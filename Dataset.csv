@@ -1,0 +1,9 @@
+text,sentiment
+"I love this product",positive
+"This is very bad",negative
+"It is okay",neutral
+"Excellent experience",positive
+"Worst app ever",negative
+"This service is amazing",positive
+"I hate this",negative
+"Average experience",neutral
